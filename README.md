@@ -1,3 +1,4 @@
-#
+# # Project- 3 Fullstack MERN Project - OneDayIn
 
-A guide to spending 24 hours in a city
+A fullstack MERN group project developed with a group of 3.
+
