@@ -3,11 +3,15 @@
   "version": "1.0.0",
   "description": "A fullstack MERN group project developed with a group of 3.",
   "main": "index.js",
+"engines": {
+    "node": "10.16.0"
+},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
       "seed": "node db/seeds.js",
       "dev": "npx nodemon",
-      "start": "node ./Backend/index.js"
+      "start": "node backend/index.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build"
 
   },
   "repository": {
