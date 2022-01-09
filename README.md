@@ -30,7 +30,7 @@ A full hosted version of the project on netlify -->
 - Bootstrap
 - React Bootstrap
 - GitHub
-- Netlify
+- Heroku
 - Trello
 
 ## Overview
