@@ -4,7 +4,7 @@
   "description": "A fullstack MERN group project developed with a group of 3.",
   "main": "index.js",
 "engines": {
-    "node": "10.16.0"
+    "node": "17.0.1"
 },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
