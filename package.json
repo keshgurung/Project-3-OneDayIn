@@ -4,7 +4,11 @@
   "description": "A fullstack MERN group project developed with a group of 3.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "seed": "node db/seeds.js",
+      "dev": "npx nodemon",
+      "start": "node app.js", 
+      "build": "cd client && yarn && yarn build"
+
   },
   "repository": {
     "type": "git",
