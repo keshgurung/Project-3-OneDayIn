@@ -12,25 +12,21 @@ const seedDatabase = async () => {
     console.log('Database connected')
 
     // Drop the database (deleting the database)
-    await mongoose.connection.db.dropDatabase()
-    console.log('DB dropped')
+    // await mongoose.connection.db.dropDatabase()
+    // console.log('DB dropped')
 
     // Create users
     const users = await User.create(userData)
     console.log('Users added to the DB', users)
 
-    const citiesWithOwners = citiesData.map(
-      (city) => {
-        city.owner = users[0]._id
-        return city
-      }
-    )
+    const citiesWithOwners = citiesData.map((city) => {
+      city.owner = users[0]._id
+      return city
+    })
     console.log('Cities with Owners ->')
 
     // Seed that database with the data file that we import
-    const citiesAdded = await City.create(
-      citiesWithOwners
-    )
+    const citiesAdded = await City.create(citiesWithOwners)
     console.log(` ${citiesAdded.length} Cities added`)
 
     // Close our connection to the database
