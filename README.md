@@ -65,9 +65,7 @@ OneDayIn is a full stack (MERN) group project developed with a group of 3. We cr
 
 ![4](/assets/4.png)
 
-![4.1](/assets/4.1.png)
-
-5. To edit/delete recommendations, click on the edit or delete tab in the recommended section. Users can only edit/delete recommendations made by them.
+5. The added recommendation can be viewed on the city screen now. To edit/delete recommendations, click on the edit or delete tab in the recommended section. Users can only edit/delete recommendations made by them.
 
 ![5](/assets/5.png)
 
