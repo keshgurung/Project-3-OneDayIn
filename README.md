@@ -1,6 +1,6 @@
 # Project- 3 Fullstack MERN Project - OneDayIn
 
-A fullstack MERN group project developed with a group of 3 members. [simon Clemson](https://github.com/sclemson) , [Kesh Gurung](https://github.com/keshgurung) , [James Rogers](https://github.com/james92rogers) .
+A fullstack MERN group project developed with a group of 3 members. [Simon Clemson](https://github.com/sclemson) , [Kesh Gurung](https://github.com/keshgurung) , [James Rogers](https://github.com/james92rogers) .
 
 This is my third project from the General Assembly course SEI-59.’
 
@@ -77,7 +77,7 @@ OneDayIn is a full stack (MERN) group project developed with a group of 3. We cr
 
 ## Process
 
-# Planning:
+### Planning:
 
 - Day 1
 
@@ -181,7 +181,7 @@ Each feature was implemented by creating a separate git branches on our local co
 - Resolve git conflict as a group.
 - Notify the team before starting the process to push the features.
 
-# Project Development
+### Project Development
 
 - Day 2 - 4:
 
@@ -358,7 +358,7 @@ The last day of the project, we focused on styling the project.
 
 This was my first time working as a group using Git, therefore I had a lot of issues with merging branches and pushing them into the main branch.
 
-Using express framework to link recommendation to the owner only and to make sure owner only can do the CRUD functionality, was a major challenge in our backend project.
+Using express framework to link recommendation to the owner only and to make sure owner only can do the CRUD functionality, was a major challenge in our project's backend.
 
 Another major challenge of the project was to authorize the user's identity and display the user information on the frontend.
 
