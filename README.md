@@ -458,6 +458,7 @@ const citySchema = new mongoose.Schema({
 - Use of different React Hooks, React Router.
 - Create a RESTful API.
 - Fetching data from backend to serve in the frontend.
+- NoSQL database, MongoDB and it's properties.
 
 ## Future features
 
