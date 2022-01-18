@@ -1,6 +1,6 @@
 # Project- 3 Fullstack MERN Project - OneDayIn
 
-A fullstack MERN group project developed with a group of 3 members. [Simon Clemson](https://github.com/sclemson) , [Kesh Gurung](https://github.com/keshgurung) , [James Rogers](https://github.com/james92rogers) .
+**OneDayIn** - A fullstack MERN group project developed with a group of 3 members. [Simon Clemson](https://github.com/sclemson) , [Kesh Gurung](https://github.com/keshgurung) , [James Rogers](https://github.com/james92rogers) .
 
 This is my third project from the General Assembly course SEI-59.’
 
