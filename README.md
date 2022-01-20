@@ -350,7 +350,7 @@ In the project, I contributed towards the development features on the users side
 
 - Day 9 :
 
-The last day of the project, we focused on styling the project.
+The last day of the project, we focused on styling the project. We implemented SASS in styling our project. Using SASS in our project helped in reducing repetition of CSS and helped in saving time for us. 
 
 ![b2](/assets/b2.png)
 
